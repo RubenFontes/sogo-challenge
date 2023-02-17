@@ -10,7 +10,7 @@
 
 body{
     font-family: 'Open Sans', sans-serif;
-    overflow: hidden;
+    overflow-x: hidden;
 }
 
 header .nav.primary{
